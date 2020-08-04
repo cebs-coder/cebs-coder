@@ -1,7 +1,7 @@
 ### olá 👋
 <body>
 
-<br> -:school: atualemte estou cursando o curso de Sistemas de Informação<br/>
+<br> -:school: atualmente estou cursando o curso de Sistemas de Informação<br/>
 <br>- sou técnico em informática pelo instituto Federal de Alagoas<br/>
 <br>- :dancers: estou aqui para compartilhar conhecimento<br/>
 <br>- Gosto de pragramar, e assistir series na Netflix<br/>
